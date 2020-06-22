@@ -1,0 +1,10 @@
+/Users/kurazul/Projects/LePendu/LePendu/bin/Debug/netcoreapp3.1/LePendu.deps.json
+/Users/kurazul/Projects/LePendu/LePendu/bin/Debug/netcoreapp3.1/LePendu.runtimeconfig.json
+/Users/kurazul/Projects/LePendu/LePendu/bin/Debug/netcoreapp3.1/LePendu.runtimeconfig.dev.json
+/Users/kurazul/Projects/LePendu/LePendu/bin/Debug/netcoreapp3.1/LePendu.dll
+/Users/kurazul/Projects/LePendu/LePendu/bin/Debug/netcoreapp3.1/LePendu.pdb
+/Users/kurazul/Projects/LePendu/LePendu/obj/Debug/netcoreapp3.1/LePendu.csprojAssemblyReference.cache
+/Users/kurazul/Projects/LePendu/LePendu/obj/Debug/netcoreapp3.1/LePendu.AssemblyInfoInputs.cache
+/Users/kurazul/Projects/LePendu/LePendu/obj/Debug/netcoreapp3.1/LePendu.AssemblyInfo.cs
+/Users/kurazul/Projects/LePendu/LePendu/obj/Debug/netcoreapp3.1/LePendu.dll
+/Users/kurazul/Projects/LePendu/LePendu/obj/Debug/netcoreapp3.1/LePendu.pdb

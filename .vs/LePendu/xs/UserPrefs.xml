@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D0BB6FC1-BBA3-447D-AC12-029A0A016472}|Default">
+  <MonoDevelop.Ide.ItemProperties.LePendu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LePendu/Gameinstance.cs">
+    <Files>
+      <File FileName="LePendu/Program.cs" Line="1" Column="1" />
+      <File FileName="LePendu/Words.cs" Line="1" Column="1" />
+      <File FileName="LePendu/Gameinstance.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LePendu" expanded="True">
+            <Node name="LePendu" expanded="True">
+              <Node name="Gameinstance.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
